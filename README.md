@@ -1,7 +1,7 @@
 # Nadia.Project
 Nadia Maarfavi - 100730530
 The project uses machine learning models to predict movie opening weekend sales based on trailer content, especially the actors' facial features. This repository contains the code for the final report and the machine-learning models used for the project.
-#Contents
+#**Contents**
 The repository consists of the following files and folders:
 ##•	Report.pdf: This file contains a detailed report on the project, including the motivation behind the project, the dataset used, the methodology employed, the results obtained, and the conclusions drawn.
 ##•	Facial.Features: This folder contains two Python files, Detect.Face.py and FeatureEng.py. The Detect.Face.py file includes the code for detecting faces and extracting facial attributes from a video, while the FeatureEng.py file includes the code for engineering facial features.
