@@ -1,6 +1,3 @@
-# Nadia.Project
-Nadia Maarfavi - 100730530
-
 
 # Movie Sales Prediction using Facial Features
 The project uses machine learning models to predict movie opening weekend sales based on trailer content, especially the actors' facial features. This repository contains the code for the final report and the machine-learning models used for the project.
