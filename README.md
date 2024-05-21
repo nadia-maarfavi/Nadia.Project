@@ -21,6 +21,9 @@ For feature importance calculation, run FeatureImportanceViaFeaturePermutation.p
 Note that the Facial.Features folder is not necessary for running the project as it contains the code for data gathering, which has already been performed and pre-processed.
 
 # Conclusion
-This project demonstrates the potential of using trailer content, especially facial features for predicting movie sales. The machine learning models employed in the project achieved agood performance, and feature permutation analysis indicated the importance of several facial features in predicting movie sales.
+This project demonstrates the potential of using trailer content, especially facial features for predicting movie sales. The machine learning models employed in the project achieved good performance, and feature permutation analysis indicated the importance of several facial features in predicting movie sales.
 We hope this project inspires further research into using facial features to predict consumer behavior.
+
+# License
+This work is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License. To view a copy of this license, visit CC BY-NC-ND 4.0.
 
